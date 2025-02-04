@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Simba",
+    "species": "Lion",
+    "age": 5,
+    "is_hero": true,
+    "image_url": "https://www.etsy.com/be/listing/1384264859/lion-king-simba-svg-png-cut-bestanden"
+  },
+  {
+    "id": 102,
+    "name": "Belle",
+    "species": "Human",
+    "age": 20,
+    "is_hero": true,
+    "image_url": "https://disney.fandom.com/wiki/Belle"
+  },
+  {
+    "id": 103,
+    "name": "Elsa",
+    "species": "Human",
+    "age": 21,
+    "is_hero": true,
+    "image_url": "https://www.reddit.com/r/Frozen/comments/1dancwi/it_was_very_hard_to_find_this_picture_of_elsa_in/?tl=nl"
+  },
+  {
+    "id": 104,
+    "name": "Aladdin",
+    "species": "Human",
+    "age": 18,
+    "is_hero": true,
+    "image_url": "https://disney.fandom.com/wiki/Aladdin_%28character%29"
+  },
+  {
+    "id": 105,
+    "name": "Cinderella",
+    "species": "Human",
+    "age": 19,
+    "is_hero": true,
+    "image_url": "https://disney.fandom.com/wiki/Cinderella_%28character%29"
+  },
+  {
+    "id": 106,
+    "name": "Mulan",
+    "species": "Human",
+    "age": 16,
+    "is_hero": true,
+    "image_url": "https://princess.disney.com/mulan"
+  },
+  {
+    "id": 107,
+    "name": "Ariel",
+    "species": "Mermaid",
+    "age": 16,
+    "is_hero": true,
+    "image_url": "https://example.com/ariel.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Woody",
+    "species": "Toy",
+    "age": 5,
+    "is_hero": true,
+    "image_url": "https://example.com/woody.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Marlin",
+    "species": "Clownfish",
+    "age": 4,
+    "is_hero": true,
+    "image_url": "https://example.com/marlin.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Moana",
+    "species": "Human",
+    "age": 16,
+    "is_hero": true,
+    "image_url": "https://example.com/moana.jpg"
+  }
+]
