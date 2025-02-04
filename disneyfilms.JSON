@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "The Lion King",
+    "description": "The Lion King is a coming-of-age story about a young lion prince named Simba, who is destined to be king but must overcome numerous challenges before claiming the throne.",
+    "release_year": 1994,
+    "is_active": true,
+    "release_date": "1994-06-15",
+    "image_url": "https://worldvectorlogo.com/nl/logo/the-lion-king",
+    "genre": "Animation",
+    "hobbies": ["singing", "adventuring", "dancing"],
+    "main_character": {
+      "id": 101,
+      "name": "Simba",
+      "species": "Lion",
+      "age": 5,
+      "is_hero": true,
+      "image_url": "https://www.etsy.com/be/listing/1384264859/lion-king-simba-svg-png-cut-bestanden"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Beauty and the Beast",
+    "description": "Beauty and the Beast tells the story of Belle, a young woman who finds herself falling in love with a Beast who is actually a prince under a curse.",
+    "release_year": 1991,
+    "is_active": true,
+    "release_date": "1991-11-22",
+    "image_url": "https://www.stickpng.com/img/icons-logos-emojis/iconic-brands/beauty-and-the-beast-decorated-logo",
+    "genre": "Animation",
+    "hobbies": ["reading", "exploring", "helping others"],
+    "main_character": {
+      "id": 102,
+      "name": "Belle",
+      "species": "Human",
+      "age": 20,
+      "is_hero": true,
+      "image_url": "https://disney.fandom.com/wiki/Belle"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Frozen",
+    "description": "Frozen follows the journey of two sisters, Elsa and Anna, as they struggle with Elsa's magical ice powers and the bond of their sibling relationship.",
+    "release_year": 2013,
+    "is_active": true,
+    "release_date": "2013-11-27",
+    "image_url": "https://1000logos.net/frozen-logo/",
+    "genre": "Animation",
+    "hobbies": ["singing", "dancing", "ice skating"],
+    "main_character": {
+      "id": 103,
+      "name": "Elsa",
+      "species": "Human",
+      "age": 21,
+      "is_hero": true,
+      "image_url": "https://www.reddit.com/r/Frozen/comments/1dancwi/it_was_very_hard_to_find_this_picture_of_elsa_in/?tl=nl"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Aladdin",
+    "description": "Aladdin is the story of a young street rat who discovers a magical genie, a flying carpet, and a love for a princess, all while trying to outsmart a villain.",
+    "release_year": 1992,
+    "is_active": true,
+    "release_date": "1992-11-25",
+    "image_url": "https://www.pinterest.com/pin/465207836513544139/",
+    "genre": "Animation",
+    "hobbies": ["pranking", "adventuring", "escaping"],
+    "main_character": {
+      "id": 104,
+      "name": "Aladdin",
+      "species": "Human",
+      "age": 18,
+      "is_hero": true,
+      "image_url": "https://disney.fandom.com/wiki/Aladdin_%28character%29"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Cinderella",
+    "description": "Cinderella is a fairy tale about a young woman whose life is transformed by her fairy godmother, and who wins the heart of a prince despite being mistreated by her stepmother.",
+    "release_year": 1950,
+    "is_active": true,
+    "release_date": "1950-02-15",
+    "image_url": "https://www.pinterest.com/pin/uac8cuc784-uc2a4ud14cuc774uc9c0--170151692163601818/",
+    "genre": "Animation",
+    "hobbies": ["cleaning", "singing", "dancing"],
+    "main_character": {
+      "id": 105,
+      "name": "Cinderella",
+      "species": "Human",
+      "age": 19,
+      "is_hero": true,
+      "image_url": "https://disney.fandom.com/wiki/Cinderella_%28character%29"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Mulan",
+    "description": "Mulan is the story of a young woman who disguises herself as a man to take her father’s place in the Chinese army, leading her to discover her own strength and courage.",
+    "release_year": 1998,
+    "is_active": true,
+    "release_date": "1998-06-19",
+    "image_url": "https://press.disneyplus.com/disney-plus/mulan/logos",
+    "genre": "Animation",
+    "hobbies": ["fighting", "honoring family", "training"],
+    "main_character": {
+      "id": 106,
+      "name": "Mulan",
+      "species": "Human",
+      "age": 16,
+      "is_hero": true,
+      "image_url": "https://www.pinterest.com/pin/mulan-disney-characters-disney--691021136591957575/"
+    }
+  },
+  {
+    "id": 7,
+    "title": "The Little Mermaid",
+    "description": "Ariel, a young mermaid princess, dreams of becoming human. She falls in love with a human prince and makes a dangerous deal with the sea witch, Ursula.",
+    "release_year": 1989,
+    "is_active": true,
+    "release_date": "1989-11-17",
+    "image_url": "https://nl.wikipedia.org/wiki/Bestand:The_Little_Mermaid_%28Official_TV_Series_Logo%29.png",
+    "genre": "Animation",
+    "hobbies": ["singing", "swimming", "exploring"],
+    "main_character": {
+      "id": 107,
+      "name": "Ariel",
+      "species": "Mermaid",
+      "age": 16,
+      "is_hero": true,
+      "image_url": "https://www.pinterest.com/pin/380624606001714174/"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Toy Story",
+    "description": "Toy Story is about a group of toys that come to life when their owner is not around. Woody, a cowboy doll, leads the toys in a battle against the new space ranger, Buzz Lightyear.",
+    "release_year": 1995,
+    "is_active": true,
+    "release_date": "1995-11-22",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Toy_Story_logo.jpg/526px-Toy_Story_logo.jpg",
+    "genre": "Animation",
+    "hobbies": ["playing", "adventuring", "helping others"],
+    "main_character": {
+      "id": 108,
+      "name": "Woody",
+      "species": "Toy",
+      "age": 5,
+      "is_hero": true,
+      "image_url": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-10n7ovy_9b42e613.jpeg?region=0,0,450,450"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Finding Nemo",
+    "description": "Finding Nemo is a story about Marlin, a clownfish, who embarks on a journey to find his son, Nemo, who was captured by a diver.",
+    "release_year": 2003,
+    "is_active": true,
+    "release_date": "2003-05-30",
+    "image_url": "https://www.logotypes101.com/logos/702/4A87A6EB312C27DF4A480B049310296C/Finding_Nemo.png",
+    "genre": "Animation",
+    "hobbies": ["swimming", "exploring", "helping others"],
+    "main_character": {
+      "id": 109,
+      "name": "Marlin",
+      "species": "Clownfish",
+      "age": 4,
+      "is_hero": true,
+      "image_url": "https://static.wikia.nocookie.net/pixar/images/d/d9/Marlin.png/revision/latest?cb=20210504223113"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Moana",
+    "description": "Moana is the story of a young Polynesian girl who sets out on an adventure to save her people and discover her true destiny.",
+    "release_year": 2016,
+    "is_active": true,
+    "release_date": "2016-11-23",
+    "image_url": "https://i.pinimg.com/1200x/7a/10/b0/7a10b042d9ea309ab5a7334efdc23a6c.jpg",
+    "genre": "Animation",
+    "hobbies": ["sailing", "singing", "exploring"],
+    "main_character": {
+      "id": 110,
+      "name": "Moana",
+      "species": "Human",
+      "age": 16,
+      "is_hero": true,
+      "image_url": "https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1107/1833/2239_Moana_34__31741.1612890988.jpg?c=2"
+    }
+  }
+]
