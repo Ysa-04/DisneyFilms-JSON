@@ -5,7 +5,7 @@
     "species": "Lion",
     "age": 5,
     "is_hero": true,
-    "image_url": "https://www.etsy.com/be/listing/1384264859/lion-king-simba-svg-png-cut-bestanden"
+    "image_url": "https://i.etsystatic.com/36680570/r/il/8ee454/4480944190/il_fullxfull.4480944190_9n3l.jpg"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "species": "Human",
     "age": 20,
     "is_hero": true,
-    "image_url": "https://disney.fandom.com/wiki/Belle"
+    "image_url": "https://i.pinimg.com/736x/d1/30/c9/d130c96ae77aa75043b08198c9fca08a.jpg"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "species": "Human",
     "age": 21,
     "is_hero": true,
-    "image_url": "https://www.reddit.com/r/Frozen/comments/1dancwi/it_was_very_hard_to_find_this_picture_of_elsa_in/?tl=nl"
+    "image_url": "https://i.ebayimg.com/images/g/DngAAOSwOyJX-rmL/s-l1200.jpg"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "species": "Human",
     "age": 18,
     "is_hero": true,
-    "image_url": "https://disney.fandom.com/wiki/Aladdin_%28character%29"
+    "image_url": "https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest/scale-to-width-down/1000?cb=20250208025416"
   },
   {
     "id": 105,
@@ -37,7 +37,7 @@
     "species": "Human",
     "age": 19,
     "is_hero": true,
-    "image_url": "https://disney.fandom.com/wiki/Cinderella_%28character%29"
+    "image_url": "https://static.wikia.nocookie.net/walt-disney-animation-studios/images/0/07/Cinderella.png/revision/latest?cb=20230909192622"
   },
   {
     "id": 106,
@@ -45,7 +45,7 @@
     "species": "Human",
     "age": 16,
     "is_hero": true,
-    "image_url": "https://princess.disney.com/mulan"
+    "image_url": "https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_Mulan.jpeg/revision/latest?cb=20230904010800"
   },
   {
     "id": 107,
@@ -53,7 +53,7 @@
     "species": "Mermaid",
     "age": 16,
     "is_hero": true,
-    "image_url": "https://example.com/ariel.jpg"
+    "image_url": "https://i.pinimg.com/474x/eb/3f/1d/eb3f1dff24a44ca23e9cb5ce718c4e5b.jpg"
   },
   {
     "id": 108,
@@ -61,7 +61,7 @@
     "species": "Toy",
     "age": 5,
     "is_hero": true,
-    "image_url": "https://example.com/woody.jpg"
+    "image_url": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-10n7ovy_9b42e613.jpeg?region=0,0,450,450"
   },
   {
     "id": 109,
@@ -69,7 +69,7 @@
     "species": "Clownfish",
     "age": 4,
     "is_hero": true,
-    "image_url": "https://example.com/marlin.jpg"
+    "image_url": "https://static.wikia.nocookie.net/pixar/images/d/d9/Marlin.png/revision/latest?cb=20210504223113"
   },
   {
     "id": 110,
@@ -77,6 +77,6 @@
     "species": "Human",
     "age": 16,
     "is_hero": true,
-    "image_url": "https://example.com/moana.jpg"
+    "image_url": "https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1107/1833/2239_Moana_34__31741.1612890988.jpg?c=2"
   }
 ]
