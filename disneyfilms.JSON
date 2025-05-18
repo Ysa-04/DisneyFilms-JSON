@@ -6,7 +6,7 @@
     "release_year": 1994,
     "is_active": true,
     "release_date": "1994-06-15",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387751618i/1693617.jpg",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/1693617.jpg",
     "genre": "Animation",
     "hobbies": ["singing", "adventuring", "dancing"],
     "main_character": {
@@ -15,7 +15,7 @@
       "species": "Lion",
       "age": 5,
       "is_hero": true,
-      "image_url": "https://i.etsystatic.com/36680570/r/il/8ee454/4480944190/il_fullxfull.4480944190_9n3l.jpg"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/il_fullxfull.4480944190_9n3l.jpg"
     }
   },
   {
@@ -25,7 +25,7 @@
     "release_year": 1991,
     "is_active": true,
     "release_date": "1991-11-22",
-    "image_url": "https://static.wikia.nocookie.net/disneyprincess/images/0/09/Beauty_and_the_Beast_film_poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Beauty_and_the_Beast_film_poster.jpg",
     "genre": "Animation",
     "hobbies": ["reading", "exploring", "helping others"],
     "main_character": {
@@ -34,7 +34,7 @@
       "species": "Human",
       "age": 20,
       "is_hero": true,
-      "image_url": "https://i.pinimg.com/736x/d1/30/c9/d130c96ae77aa75043b08198c9fca08a.jpg"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/d130c96ae77aa75043b08198c9fca08a.jpg"
     }
   },
   {
@@ -44,7 +44,7 @@
     "release_year": 2013,
     "is_active": true,
     "release_date": "2013-11-27",
-    "image_url": "https://shop.mattel.com.au/cdn/shop/collections/Untitled-5.png?v=1709519864",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Untitled.jpg",
     "genre": "Animation",
     "hobbies": ["singing", "dancing", "ice skating"],
     "main_character": {
@@ -53,7 +53,7 @@
       "species": "Human",
       "age": 21,
       "is_hero": true,
-      "image_url": "https://i.ebayimg.com/images/g/DngAAOSwOyJX-rmL/s-l1200.jpg"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/s-l1200.jpg"
     }
   },
   {
@@ -63,7 +63,7 @@
     "release_year": 1992,
     "is_active": true,
     "release_date": "1992-11-25",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjlmwDw2nw895vr4yV2oatQ4BRnvcDmihGQ&s",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/images.jpg",
     "genre": "Animation",
     "hobbies": ["pranking", "adventuring", "escaping"],
     "main_character": {
@@ -72,7 +72,7 @@
       "species": "Human",
       "age": 18,
       "is_hero": true,
-      "image_url": "https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest/scale-to-width-down/1000?cb=20250208025416"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Profile_-_Aladdin.jpg"
     }
   },
   {
@@ -82,7 +82,7 @@
     "release_year": 1950,
     "is_active": true,
     "release_date": "1950-02-15",
-    "image_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052018/untitled-1_176.png?YFuMw632rNF6ebVu14jyLZ9Yd.CoYrvW&itok=ze_gup_G",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/279c2355accad21e1008ed348d53ef4c.jpg",
     "genre": "Animation",
     "hobbies": ["cleaning", "singing", "dancing"],
     "main_character": {
@@ -91,7 +91,7 @@
       "species": "Human",
       "age": 19,
       "is_hero": true,
-      "image_url": "https://static.wikia.nocookie.net/walt-disney-animation-studios/images/0/07/Cinderella.png/revision/latest?cb=20230909192622"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Cinderella.jpg"
     }
   },
   {
@@ -101,7 +101,7 @@
     "release_year": 1998,
     "is_active": true,
     "release_date": "1998-06-19",
-    "image_url": "https://lumiere-a.akamaihd.net/v1/images/mulan_logo_finish_02-13-19_simp_c35a281a.jpeg?region=0%2C122%2C2400%2C1350",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/mulan_logo_finish_02-13-19_simp_c35a281a.jpg",
     "genre": "Animation",
     "hobbies": ["fighting", "honoring family", "training"],
     "main_character": {
@@ -110,7 +110,7 @@
       "species": "Human",
       "age": 16,
       "is_hero": true,
-      "image_url": "https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_Mulan.jpeg/revision/latest?cb=20230904010800"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Profile_-_Mulan.jpg"
     }
   },
   {
@@ -120,7 +120,7 @@
     "release_year": 1989,
     "is_active": true,
     "release_date": "1989-11-17",
-    "image_url": "https://nl.wikipedia.org/wiki/Bestand:The_Little_Mermaid_%28Official_TV_Series_Logo%29.png",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/The_Little_Mermaid_(Official_TV_Series_Logo).jpg",
     "genre": "Animation",
     "hobbies": ["singing", "swimming", "exploring"],
     "main_character": {
@@ -129,7 +129,7 @@
       "species": "Mermaid",
       "age": 16,
       "is_hero": true,
-      "image_url": "https://i.pinimg.com/474x/eb/3f/1d/eb3f1dff24a44ca23e9cb5ce718c4e5b.jpg"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/eb3f1dff24a44ca23e9cb5ce718c4e5b.jpg"
     }
   },
   {
@@ -139,7 +139,7 @@
     "release_year": 1995,
     "is_active": true,
     "release_date": "1995-11-22",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Toy_Story_logo.jpg/526px-Toy_Story_logo.jpg",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/526px-Toy_Story_logo.jpg",
     "genre": "Animation",
     "hobbies": ["playing", "adventuring", "helping others"],
     "main_character": {
@@ -148,7 +148,7 @@
       "species": "Toy",
       "age": 5,
       "is_hero": true,
-      "image_url": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-10n7ovy_9b42e613.jpeg?region=0,0,450,450"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/open-uri20150422-20810-10n7ovy_9b42e613.jpeg"
     }
   },
   {
@@ -158,7 +158,7 @@
     "release_year": 2003,
     "is_active": true,
     "release_date": "2003-05-30",
-    "image_url": "https://www.logotypes101.com/logos/702/4A87A6EB312C27DF4A480B049310296C/Finding_Nemo.png",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Finding_Nemo.jpg",
     "genre": "Animation",
     "hobbies": ["swimming", "exploring", "helping others"],
     "main_character": {
@@ -167,7 +167,7 @@
       "species": "Clownfish",
       "age": 4,
       "is_hero": true,
-      "image_url": "https://static.wikia.nocookie.net/pixar/images/d/d9/Marlin.png/revision/latest?cb=20210504223113"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/Marlin.jpg"
     }
   },
   {
@@ -177,7 +177,7 @@
     "release_year": 2016,
     "is_active": true,
     "release_date": "2016-11-23",
-    "image_url": "https://i.pinimg.com/1200x/7a/10/b0/7a10b042d9ea309ab5a7334efdc23a6c.jpg",
+    "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/7a10b042d9ea309ab5a7334efdc23a6c.jpg",
     "genre": "Animation",
     "hobbies": ["sailing", "singing", "exploring"],
     "main_character": {
@@ -186,7 +186,7 @@
       "species": "Human",
       "age": 16,
       "is_hero": true,
-      "image_url": "https://cdn11.bigcommerce.com/s-5ylnei6or5/images/stencil/1280x1280/products/1107/1833/2239_Moana_34__31741.1612890988.jpg?c=2"
+      "image_url": "https://raw.githubusercontent.com/Ysa-04/DisneyFilms-JSON/bfb64aacef8eadfb5d17eced179a415627bc199f/public/2239_Moana_34__31741.jpg"
     }
   }
 ]
